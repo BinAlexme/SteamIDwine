@@ -9,7 +9,7 @@
 ## Установка 💾
 - Установка с помощью пакетного менеджера pip
 ```
-$ pip install steamwine
+$ pip install steamIDwine
 ```
 - Установка с GitHub (требуется [git](https://git-scm.com/downloads))
 ```
