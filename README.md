@@ -21,7 +21,7 @@ $ python setup.py install
 ## Пример 👀
 ```py
 import asyncio
-from steamwine import Steam
+from steamIDwine import Steam
 
 api = Steam("API_KEY")
 
